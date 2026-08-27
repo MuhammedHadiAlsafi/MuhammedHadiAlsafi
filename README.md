@@ -36,13 +36,33 @@ Resif Eğitim ve Simülasyon Teknolojileri bünyesinde geliştirilen eğitim yaz
 
 ---
 
-## 📂 Projelerim
+## 📂 Öne Çıkan Projelerim
 
-| Proje | Açıklama | Teknolojiler |
-| :--- | :--- | :--- |
-| **OktoEdu** | Eğitim yazılımı — aktif geliştirme | C#, JavaScript, Node.js, FFmpeg |
-| **PROJE_ADI** | Ne yaptığı, neyi çözdüğü | Kullandığın teknolojiler |
-| **PROJE_ADI** | Ne yaptığı, neyi çözdüğü | Kullandığın teknolojiler |
+<p align="center">
+  <a href="https://github.com/KULLANICI_ADIN/REPO_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KULLANICI_ADIN&repo=REPO_1&theme=radical&hide_border=true" alt="REPO_1" />
+  </a>
+  <a href="https://github.com/KULLANICI_ADIN/REPO_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KULLANICI_ADIN&repo=REPO_2&theme=radical&hide_border=true" alt="REPO_2" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/KULLANICI_ADIN/REPO_3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KULLANICI_ADIN&repo=REPO_3&theme=radical&hide_border=true" alt="REPO_3" />
+  </a>
+  <a href="https://github.com/KULLANICI_ADIN/REPO_4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KULLANICI_ADIN&repo=REPO_4&theme=radical&hide_border=true" alt="REPO_4" />
+  </a>
+</p>
+
+---
+
+## 🔄 Son Güncellenen Repolar
+
+<!-- Bu bölüm GitHub Actions tarafından otomatik güncellenir. Aradaki satırları elle değiştirme. -->
+<!--START_SECTION:projects-->
+<!--END_SECTION:projects-->
 
 ---
 
