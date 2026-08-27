@@ -4,8 +4,7 @@
 
 <br/>
 
-Haziran 2026'da Bilgisayar Mühendisliği bölümünden mezun oldum. Şu anda **Resif Eğitim ve Simülasyon Teknolojileri** çatısı altında **OktoEdu** gibi eğitim yazılımları ve süreçlerine odaklanıyorum.
-
+Haziran 2026'da Bilgisayar Mühendisliği bölümünden mezun oldum.
 ### 👨‍💻 Hakkımda
 * 🎓 **Eğitim:** Bilgisayar Mühendisliği (Mezuniyet: Haziran 2026)
 * 💼 **Mevcut Odak:** Eğitim yazılımları, otomasyon süreçleri ve mimari sistemler geliştirme.
