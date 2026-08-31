@@ -23,16 +23,10 @@ otomasyon süreçleri, ses/video işleme hatları ve sürdürülebilir yazılım
 ---
 
 ## 🚀 Şu Anda Üzerinde Çalıştığım Proje
+.
+.
+.
 
-### OktoEdu
-Resif Eğitim ve Simülasyon Teknolojileri bünyesinde geliştirilen eğitim yazılımı.
-
-> PROJENIN_KISA_ACIKLAMASI — kim için, hangi problemi çözüyor, hangi aşamada?
-
-**Odaklandığım alanlar**
-* İçerik üretim süreçlerinin otomasyonu (FFmpeg tabanlı ses/video işleme)
-* Ölçeklenebilir ön yüz mimarisi (JavaScript · Vite)
-* Sistem tarafı servisler ve araçlar (C# · Node.js)
 
 ---
 
